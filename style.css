@@ -182,6 +182,8 @@ nav{
 .header {
     padding: 4rem 0;
     height: 80vh;
+    background: url("../img/banner9.jpg") no-repeat center;
+        
     background: url(/img/banner9.jpg) no-repeat center;
     background-image: url(../img/banner9.jpg);
     background-attachment: fixed;
