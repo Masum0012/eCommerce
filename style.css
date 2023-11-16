@@ -182,9 +182,7 @@ nav{
 .header {
     padding: 4rem 0;
     height: 80vh;
-    background-image: url("../img/banner9.jpg");
-
-    background: url("../img/banner9.jpg") no-repeat center; 
+    background: url("../img/banner9.jpg"); 
     background-attachment: fixed;
     background-size: cover;
   }
@@ -196,7 +194,7 @@ nav{
   .banner__title {
     font-size: 3rem;
     color: #0c0d13;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial row', Arial, sans-serif;
     padding: 1rem;
     border-radius: var(--border-radius);
   }
